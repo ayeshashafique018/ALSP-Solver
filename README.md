@@ -1,6 +1,4 @@
-Sure! Below is the content formatted for a GitHub README file. You can copy and paste this directly into your `README.md` file on GitHub:
 
-````markdown
 # Assembly Line Scheduling Problem (ALSP) - Optimized Scheduling Algorithm
 
 ## Overview
