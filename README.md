@@ -34,35 +34,6 @@ To run this project, you'll need a C++ development environment. This project is 
 - **C++ Compiler** (GCC, Clang, or equivalent)
 - **C++ IDE** (Visual Studio, CLion, Code::Blocks, etc.)
 
-### Installation Steps
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/assembly-line-scheduling.git
-   cd assembly-line-scheduling
-````
-
-2. **Build the Project**:
-   Use the following command to compile the project:
-
-   ```bash
-   g++ -o ALSPSolver main.cpp
-   ```
-
-3. **Run the Executable**:
-   After compiling, run the algorithm with the following command:
-
-   ```bash
-   ./ALSPSolver
-   ```
-
-4. **Check the Output**:
-   The output will include:
-
-   * Scheduled job assignments.
-   * Worker utilization metrics.
-   * Assembly line utilization statistics.
-   * A Gantt chart visualization of the job schedule.
 
 ## Algorithm Details
 
